@@ -15,7 +15,7 @@ int main(  ) {
 ```
 | Hello | Good |
 |:------|-----:|
-| This| next |
+| Goody | next |
 | is | data |
 | a | a |
 
